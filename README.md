@@ -19,6 +19,8 @@ This website is about some important notices of the course
 
 [Class-07](./code-201/class-07.md)
 
+[Class-08](./code-201/class-08.md)
+
 ## Code 301 - Intermediate Software Development
 
 ## Code 401 - Advanced Software Development
